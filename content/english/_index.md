@@ -6,8 +6,8 @@ hero_slider:
   slider_item:
     # slider item
     - subtitle : "We are here to"
-      title : "Planning Business"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      title : "HELP START YOUR UK JOURNEY WITH CYLAND"
+      content : "We’re hiring registered nurses and healthcare assistants from around the globe!"
       bg_image_webp : "images/slider/banner-1.webp"
       bg_image : "images/slider/banner-1.jpg"
       animation : "fadeInUp" # animation select from : https://daneden.github.io/animate.css/
@@ -19,37 +19,11 @@ hero_slider:
         
     # slider item
     - subtitle : "We are here to"
-      title : "Planning Business"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      title : "CHANGE YOUR LIFE BETTER!"
+      content : "We're here to genuinely help you pursue your career as a healthcare professional in the United Kingdom. That’s what we love to do."
       bg_image_webp : "images/slider/banner-2.webp"
       bg_image : "images/slider/banner-2.jpg"
       animation : "fadeInDown" # animation select from : https://daneden.github.io/animate.css/
-      button:
-        enable : true
-        label : "more details"
-        link : "about"
-        animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
-        
-    # slider item
-    - subtitle : "We are here to"
-      title : "Planning Business"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      bg_image_webp : "images/slider/banner-3.webp"
-      bg_image : "images/slider/banner-3.jpg"
-      animation : "fadeInLeft" # animation select from : https://daneden.github.io/animate.css/
-      button:
-        enable : true
-        label : "more details"
-        link : "about"
-        animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
-        
-    # slider item
-    - subtitle : "We are here to"
-      title : "Planning Business"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      bg_image_webp : "images/slider/banner-4.webp"
-      bg_image : "images/slider/banner-4.jpg"
-      animation : "fadeInRight" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
         label : "more details"

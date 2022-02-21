@@ -14,14 +14,14 @@ philosophy:
   philosophy_item:
     # philosophy item loop
     - title : "Our Mission"
-      content : "Lorem ipsum dolor sit amet consectetur adip isicing elit sed do eiusmod tempor incididunt ut labore."
+      content : "Our goal is to provide highly competitive individuals to deliver outstanding care to patients, their families, and the communities we serve."
       bullet_point:
         - "Quality Services"
         - "Clients Satisfaction"
         
     # philosophy item loop
     - title : "Our Approach"
-      content : "Lorem ipsum dolor sit amet consectetur adip isicing elit sed do eiusmod tempor incididunt ut labore."
+      content : "We're continually providing quality training to healthcare professionals and ensuring that they met the standard of excellence of our clients."
       bullet_point:
         - "Quality Services"
         - "Clients Satisfaction"
