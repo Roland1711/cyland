@@ -11,6 +11,9 @@
       {{ $.Scratch.Set "counter" 0 }}
       {{ range $index, $element := .philosophy_item }}
       {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
+      <div class="content">
+        {{ .Content }}
+      </div>
       {{ "<!-- philosophy item -->" | safeHTML }}
       <div class="col-md-4 mb-4 mb-md-0">
         <h3><span class="text-primary">{{if lt $index 9}}0{{end}}{{$.Scratch.Get `counter`}}.</span> {{ .title }}</h3>

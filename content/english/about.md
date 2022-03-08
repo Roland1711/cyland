@@ -28,7 +28,7 @@ philosophy:
         
     # philosophy item loop
     - title : "Our Philosophy"
-      content : "Lorem ipsum dolor sit amet consectetur adip isicing elit sed do eiusmod tempor incididunt ut labore."
+      content : "Our clients and healthcare professionals are at the heart of every decision we make. We are committed to provide exceptional results and exceed their expectations at every turn."
       bullet_point:
         - "Quality Services"
         - "Clients Satisfaction"
