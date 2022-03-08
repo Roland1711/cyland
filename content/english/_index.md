@@ -36,32 +36,32 @@ banner_feature:
   # Max use 4 item
   feature_item:
     # banner feature item loop
-    - name : "Business Solution"
+    - name : "FAST RECRUITMENT"
       icon : "far fa-gem" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Lorem ipsum dolor sit amet constur adipelit sed."
+      content : "Massive contacts with employers around the UK."
       
     # banner feature item loop
-    - name : "Market Research"
+    - name : "IMMIGRATION"
       icon : "far fa-chart-bar" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Lorem ipsum dolor sit amet constur adipelit sed."
+      content : "Provides sponsorship to successful candidates."
       
     # banner feature item loop
-    - name : "Business Strategy"
+    - name : "IELTS OR OET"
       icon : "far fa-lightbulb" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Lorem ipsum dolor sit amet constur adipelit sed."
+      content : "Helping you achieve the score you need."
       
     # banner feature item loop
-    - name : "Speed Optimization"
+    - name : "OSCE & CBT"
       icon : "fas fa-tachometer-alt" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Lorem ipsum dolor sit amet constur adipelit sed."
+      content : "Trains you to obtain the certificates you need."
 
 
 ################################## about ####################################
 about:
   enable : true
   subtitle : "About Us"
-  title : "We Are Dynamic Team and Business Agency"
-  content : "Excepteur sint occaecat cupidatat non proident sunt iculpa qui officia deserunt mollit anim est. laborum sed perspiciatis unde omnis natus error sit voluptatem accusantium."
+  title : "HELPING YOU EVERYTHING YOU NEED"
+  content : "Whether you are an employer looking for registered nurses from around the globe or a healthcare professional seeking to start a career in the United Kingdom, we are here for you!"
   bg_image : "images/backgrounds/about-us-bg.png"
   bg_image_webp : "images/backgrounds/about-us-bg.webp"
   image_webp : "images/about/about-us.webp"
@@ -100,20 +100,30 @@ funfacts :
 feature:
   enable : true
   subtitle : "Why Choose Us"
-  title : "Why They Choose Bexar"
+  title : "WHY THEY CHOOSE CYLAND"
   image_webp : "images/feature/feature.webp"
   image : "images/feature/feature.jpg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eius tempor incididunt ut labore."
+  content : "For 8+ years, we have successfully recruit and place foreign healthcare professionals to hospitals and nursing homes throughout the UK."
   feature_item:
     # feature item loop
-    - name : "Creative Design"
+    - name : "Ethical Recruitment"
       icon : "far fa-snowflake" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia."
+      content : "Dedicated and adhere to the highest standard of ethical recruitment."
       
     # feature item loop
-    - name : "Pixel Perfect Coding"
+    - name : "Career Opportunities"
       icon : "fas fa-code" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia."
+      content : "Has a direct contact with hundreds of potential employers in the UK."
+
+      # feature item loop
+    - name : "Benefits"
+      icon : "far fa-snowflake" # font-awesome 5 : https://fontawesome.com/icons/
+      content : "Access to a wide range of benefits including British citizenship and health benefits in the UK."
+      
+    # feature item loop
+    - name : "Transitions Programme"
+      icon : "fas fa-code" # font-awesome 5 : https://fontawesome.com/icons/
+      content : "Clinical and cultural transitions into your new life and career in the UK."
 
 ################################# service ############################################
 service:

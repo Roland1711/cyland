@@ -1,21 +1,19 @@
 ---
-title: "Market Analysis"
+title: "TRAINING"
 # meta description
 description: "this is meta description for service page."
 # page title background image
 bg_image_webp: "images/backgrounds/page-title.webp"
 bg_image: "images/backgrounds/page-title.jpg"
 # service image
-image_webp: "images/service/service-1.webp"
-image: "images/service/service-1.jpg"
+image_webp: "images/service/service-5.webp"
+image: "images/service/service-5.jpg"
 # service icon
-icon: "far fa-handshake" # font-awesome 5 : https://fontawesome.com/icons/
+icon: "fas fa-briefcase" # font-awesome 5 : https://fontawesome.com/icons/
 
 ---
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-
-Quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam.
+Provides training necessary for your UK journey including IELTS, OET, CBT and OSCE training.
 
 ### Benifits of service
 
